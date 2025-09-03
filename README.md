@@ -4,3 +4,5 @@
 
 Para iniciuazr el sistema utiliza:
 ```npm install react```
+
+Sistema de Registro 2
